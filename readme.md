@@ -60,6 +60,4 @@ You can view the full API documentation with Swagger UI by navigating to `/swagg
 
 https://github.com/user-attachments/assets/0b631190-b428-4ebb-b756-29bde37404fc
 
-[Link to Video Demo]()
-
 This demo shows how to run the tests and how to use the Swagger UI to interact with the API.
